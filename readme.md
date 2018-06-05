@@ -8,7 +8,7 @@ Next version will work with php backend and GitHub API Auth. This will increase 
 Wait for the new release :)
 
 
-![screen](screen.JPG)
+![screen](screen.jpg)
 
 
 ### author Wojciech Mruk
